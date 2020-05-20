@@ -1,2 +1,2 @@
 # CTFS_new_resolved
-Maneras diferentes de CTFS
+Comparto la máquina October cms resuelta de una manera diferente
